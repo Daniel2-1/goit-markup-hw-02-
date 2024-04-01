@@ -250,6 +250,7 @@ width: calc((100% - 72px) / 4);
 /* Section 2 */
 .section-our-team {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .section-team-titel {
@@ -261,12 +262,18 @@ width: calc((100% - 72px) / 4);
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
+    margin-bottom: 72px;
 }
 
-.section-team-list {}
+.section-team-list {
+    display: flex;
+    gap: 24px;
+}
 
 .section-team-item {
-    background: #fff
+    background: #fff;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
 
 .section-team-subtitel {
