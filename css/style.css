@@ -58,9 +58,9 @@ address {
     border-bottom: 1px solid #e7e9fc;
 }
 
-.container header-class{
+.container header-class {
 
-
+display: flex;
 }
 
 .header-container {
