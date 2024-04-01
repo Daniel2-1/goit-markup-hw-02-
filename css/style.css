@@ -86,6 +86,7 @@ display: flex;
 
 .header-list-navigation {
     display: flex;
+    gap: 40px;
 }
 
 
@@ -116,6 +117,7 @@ display: flex;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding: 24px 0;
 }
 
 .header-link:hover {
