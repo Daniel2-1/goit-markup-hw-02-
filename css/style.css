@@ -310,6 +310,7 @@ width: calc((100% - 72px) / 4);
 /* Section 3 */
 .section-portfolio {
     padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .section-portfolio-title {
@@ -349,3 +350,21 @@ width: calc((100% - 72px) / 4);
     line-height: 1.2;
     margin-bottom: 8px;
 }
+
+
+
+
+.footer {
+    padding: 100px 0;
+}
+
+.container {}
+
+.footer-link {
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+.web-footer {}
+
+.footer-text {}
