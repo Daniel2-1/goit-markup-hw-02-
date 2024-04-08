@@ -367,4 +367,6 @@ width: calc((100% - 72px) / 4);
 
 .web-footer {}
 
-.footer-text {}
+.footer-text {
+    max-width: 264px;
+}
